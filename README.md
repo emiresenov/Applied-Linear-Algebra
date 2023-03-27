@@ -1,2 +1,2 @@
 # Applied-Linear-Algebra
-Material from a course in applied linear algebra for data science
+Material from a course in applied linear algebra
